@@ -1,0 +1,243 @@
+.qipan {
+  width: 600px;
+  height: 600px;
+  background: url(1.jpg);
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  margin: auto; }
+
+.qizi {
+  width: 30px;
+  height: 30px;
+  float: left;
+  border-radius: 50%;
+  margin: 5px;
+  position: relative;
+  z-index: 20;
+  cursor: pointer; }
+
+.bai {
+  background-color: #fff; }
+
+.hei {
+  background: #000; }
+
+.hang {
+  display: block;
+  width: 560px;
+  height: 1px;
+  background: #AA5F38;
+  position: absolute;
+  left: 20px; }
+
+.qipan b:nth-of-type(1) {
+  top: 20px; }
+
+.qipan b:nth-of-type(2) {
+  top: 60px; }
+
+.qipan b:nth-of-type(3) {
+  top: 100px; }
+
+.qipan b:nth-of-type(4) {
+  top: 140px; }
+
+.qipan b:nth-of-type(5) {
+  top: 180px; }
+
+.qipan b:nth-of-type(6) {
+  top: 220px; }
+
+.qipan b:nth-of-type(7) {
+  top: 260px; }
+
+.qipan b:nth-of-type(8) {
+  top: 300px; }
+
+.qipan b:nth-of-type(9) {
+  top: 340px; }
+
+.qipan b:nth-of-type(10) {
+  top: 380px; }
+
+.qipan b:nth-of-type(11) {
+  top: 420px; }
+
+.qipan b:nth-of-type(12) {
+  top: 460px; }
+
+.qipan b:nth-of-type(13) {
+  top: 500px; }
+
+.qipan b:nth-of-type(14) {
+  top: 540px; }
+
+.qipan b:nth-of-type(15) {
+  top: 580px; }
+
+.shu {
+  display: block;
+  height: 560px;
+  width: 1px;
+  background: #AA5F38;
+  position: absolute;
+  left: 20px;
+  top: 20px; }
+
+.qipan i:nth-of-type(1) {
+  left: 20px; }
+
+.qipan i:nth-of-type(2) {
+  left: 60px; }
+
+.qipan i:nth-of-type(3) {
+  left: 100px; }
+
+.qipan i:nth-of-type(4) {
+  left: 140px; }
+
+.qipan i:nth-of-type(5) {
+  left: 180px; }
+
+.qipan i:nth-of-type(6) {
+  left: 220px; }
+
+.qipan i:nth-of-type(7) {
+  left: 260px; }
+
+.qipan i:nth-of-type(8) {
+  left: 300px; }
+
+.qipan i:nth-of-type(9) {
+  left: 340px; }
+
+.qipan i:nth-of-type(10) {
+  left: 380px; }
+
+.qipan i:nth-of-type(11) {
+  left: 420px; }
+
+.qipan i:nth-of-type(12) {
+  left: 460px; }
+
+.qipan i:nth-of-type(13) {
+  left: 500px; }
+
+.qipan i:nth-of-type(14) {
+  left: 540px; }
+
+.qipan i:nth-of-type(15) {
+  left: 580px; }
+
+.qipan span {
+  display: block;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background: #000;
+  border-radius: 50%;
+  z-index: 10; }
+
+.qipan span:nth-of-type(1) {
+  top: 135px;
+  left: 135px; }
+
+.qipan span:nth-of-type(2) {
+  top: 135px;
+  left: 455px; }
+
+.qipan span:nth-of-type(3) {
+  top: 295px;
+  left: 295px; }
+
+.qipan span:nth-of-type(4) {
+  top: 455px;
+  left: 135px; }
+
+.qipan span:nth-of-type(5) {
+  top: 455px;
+  left: 455px; }
+
+.body {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: url(4.jpg);
+  background-size: cover; }
+
+.renji {
+  width: 200px;
+  height: 50px;
+  background: #9DADA3;
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  left: 10px;
+  top: 130px;
+  text-align: center;
+  line-height: 50px;
+  z-index: 30;
+  cursor: pointer;
+  border-radius: 20px;
+  opacity: 0.7; }
+
+.renren {
+  width: 200px;
+  height: 50px;
+  background: #9DADA3;
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  left: 10px;
+  top: 70px;
+  text-align: center;
+  line-height: 50px;
+  z-index: 30;
+  cursor: pointer;
+  opacity: 0.7;
+  border-radius: 20px; }
+
+.agmin {
+  width: 200px;
+  height: 50px;
+  background: #9DADA3;
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  text-align: center;
+  line-height: 50px;
+  z-index: 30;
+  cursor: pointer;
+  opacity: 0.7;
+  border-radius: 20px; }
+
+.tishi {
+  width: 200px;
+  height: 133px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  margin: auto;
+  z-index: 150;
+  background: url(55.jpg);
+  text-align: center;
+  line-height: 165px;
+  font-size: 36px;
+  color: white;
+  opacity: 0.7;
+  transform: translateY(-800px);
+  transition: all 0.8s ease; }
+
+.tishi.y {
+  transform: translateY(0);
+  transition: all 0.8s ease; }
